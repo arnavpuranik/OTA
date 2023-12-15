@@ -1,19 +1,17 @@
 ===============
-20-09-2022
+10-07-2023
 ===============
 Source Changelog:
-• Initial Android 13 Build
-• Add back increasing ring feature & incall vibration options
-• Add back SELinux info in about page
-• Add simple RGB color balance transform
-• Add support for app signature spoofing
-• Allow users to hide navbar pill & changing the length of gesture navbar
-• Enabled 2-button navigation bar
-• Introduced advanced reboot
-• Introduced brightness slider customizations & pocket mode
-• Introduced double tap to sleep on lockscreen & statusbar
-• Introduced expanded volume panel
-• Introduced three-fingers-swipe to screenshot
+• Added option for users to separate ring & notification sound streams
+• Enabled and tuned split notification shade
+• Enabled few feature flags
+• Fixed an issue where few system icons failed to refresh on theme change
+• Fixed some NPE
+• Introduced smart 5G service
+• Introduced statusbar NFC icon
+• Moved Vo5G toggle right below VoLTE
+• Un-spoofed GMS while adding Google account
 
 Device Changelog:
-• Initial Android 13 Build
+• Switched to FBEv2 (Clean flash needed)
+• Misc changes and improvements

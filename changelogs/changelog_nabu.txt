@@ -1,0 +1,16 @@
+===============
+05-10-2023
+===============
+Changelog:
+• October Security patch merged
+• Added Desktop mode
+• Enable floating windows by default
+• Added boostframework
+• Updated blobs from latest global miui (v14.0.6)
+• Updated gms stack from Pixel Tab September OTA
+• Upstreamed kernel to 4.14.326
+• Tuned zram configuration
+• Enabled zram writeback
+• And lot more!
+
+Note: Custom recoveries are not supported anymore with default kernel.
